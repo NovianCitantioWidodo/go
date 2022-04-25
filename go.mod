@@ -1,3 +1,3 @@
-module github.com/girikuncoro/belajar-cicd-pemula
+module github.com/NovianCitantioWidodo/go
 
 go 1.17
